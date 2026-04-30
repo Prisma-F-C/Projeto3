@@ -42,7 +42,7 @@ body{
     background:var(--colorLinear);
     -webkit-text-fill-color:transparent;
     background-clip:text;
-    animation:efeito 1s ease-in-out;
+    animation:efeito 2s ease-in-out;
 }
 @keyframes efeito{
     from{
@@ -56,7 +56,7 @@ body{
     font-size:1.5rem;
     color:var(--color2);
     opacity:0;
-    animation:efeito2 1s ease-in-out;
+    animation:efeito2 2s ease-in-out;
 }
 @keyframes efeito2{
     from{
